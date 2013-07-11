@@ -1,0 +1,56 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+
+
+.top-bar {
+	background:#21314d;
+
+}	
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+
+
+ .top-bar ul > li:hover {
+	 color:#f5821f; 
+ }
+ 
+ .nav-bar{
+ 	background:white;
+	border:none;
+ }
+ 
+ 
+ .nav-bar > li:hover { background:white;	}
+ .nav-bar > li:hover > a:hover{ color:#21314d;}
+ 
+ 
+ .nav-bar > li {
+	 border:none;
+	
+ }
+ 
+ .nav-bar > li:last-child { border-right:none;}
+ 
+ .nav-bar > li > a { color:#f5821f; 	 }
+ /*            */
+
+ 
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
+
